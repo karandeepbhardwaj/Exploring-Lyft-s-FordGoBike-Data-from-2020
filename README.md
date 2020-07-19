@@ -64,7 +64,7 @@ Data visualization is an important skill that is used in many parts of the data 
 This project is a win - win situation where a large number of people can benefit from this program:
 
 - Environmentally friendly, budget friendly, and lifetsyle friendly.
-- Subscribers (i.e. daily commuters) benefit from a health commuting choice.
+- Memebers (i.e. daily commuters) benefit from a health commuting choice.
 - Customers (i.e. tourists, students, etc.) have a sustainable, yet flexible option for touring the city.
 - Affordable and convenient transportation for the people of all socioeconomic classes.
 - Renting a bike from theFord GoBike System is a fantastic (healthy and environmentally friendly) way of moving around in the city, both for enjoyment and work. 
